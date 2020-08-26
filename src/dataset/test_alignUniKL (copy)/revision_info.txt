@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py --detect_multiple_faces True /home/cyberfxl/venv/facenet-1/facenet/src/test_UniKL /home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL
+--------------------
+tensorflow version: 1.7.0
+--------------------
+git hash: b'096ed770f163957c1e56efa7feeb194773920f6e'
+--------------------
+b''

@@ -1,0 +1,41 @@
+Install the requirements:
+tensorflow==1.7
+scipy==1.1.0
+scikit-learn
+opencv-python
+h5py
+matplotlib
+Pillow
+requests
+psutil
+numpy==1.16.1
+
+First of all, put all the raw image dataset in a folder to align a face from input image. If you want to align multiple faces, use --detect_multiple_faces True
+
+Align your training images:
+/home/rapid/venv/facenet/facenet/src/align/align_dataset_mtcnn.py --detect_multiple_faces True\
+/home/rapid/venv/facenet/facenet/src/dataset/UniKL/train_UniKL \
+/home/rapid/venv/facenet/facenet/src/dataset/UniKL/train_alignUniKL \
+--image_size 160
+
+Align your testing images:
+/home/rapid/venv/facenet/facenet/src/align/align_dataset_mtcnn.py \
+/home/rapid/venv/facenet/facenet/src/dataset/UniKL/test_UniKL \
+/home/rapid/venv/facenet/facenet/src/dataset/UniKL/test_alignUniKL \
+--image_size 160
+
+
+
+Run the classifier.py by using the arguments below:
+
+python3 classifier.py TRAIN \
+/home/rapid/venv/facenet/facenet/src/dataset/UniKL/train_alignUniKL \
+/home/rapid/venv/facenet/facenet/src/models/models/20180402-114759.pb \
+/home/rapid/venv/facenet/facenet/src/models/models/UniKLOri.pkl 
+
+python3 classifier.py CLASSIFY \
+/home/rapid/venv/facenet/facenet/src/dataset/UniKL/test_alignUniKL \
+/home/rapid/venv/facenet/facenet/src/models/models/20180402-114759.pb \
+/home/rapid/venv/facenet/facenet/src/models/models/UniKLOri.pkl 
+
+Note that in classifying stage, maximum folders that can be tested is 9 in order to get the correct classification of the images and the class.

@@ -1,0 +1,10 @@
+/home/rapid/venv/facenet/facenet/src/test_align/David_Beckham/David_Beckham_0001.png 56 42 191 204
+/home/rapid/venv/facenet/facenet/src/test_align/Guillermo_Coria/Guillermo_Coria_0001.png 60 47 205 209
+/home/rapid/venv/facenet/facenet/src/test_align/John_Negroponte/John_Negroponte_0003.png 65 42 194 202
+/home/rapid/venv/facenet/facenet/src/test_align/Kofi_Annan/Kofi_Annan_0003.png 38 28 201 233
+/home/rapid/venv/facenet/facenet/src/test_align/Megawati_Sukarnoputri/Megawati_Sukarnoputri_0003.png 70 37 202 212
+/home/rapid/venv/facenet/facenet/src/test_align/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0010.png 52 38 198 204
+/home/rapid/venv/facenet/facenet/src/test_align/Roh_Moo-hyun/Roh_Moo-hyun_0023.png 59 41 201 210
+/home/rapid/venv/facenet/facenet/src/test_align/Silvio_Berlusconi/Silvio_Berlusconi_0017.png 49 34 190 207
+/home/rapid/venv/facenet/facenet/src/test_align/Tom_Ridge/Tom_Ridge_0012.png 45 36 186 206
+/home/rapid/venv/facenet/facenet/src/test_align/Vicente_Fox/Vicente_Fox_0004.png 68 43 194 198

@@ -1,0 +1,99 @@
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 1/mx10-17-54-114.mxg0000_0.png 735 244 809 328
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 1/mx10-17-54-114.mxg0000_1.png 565 258 632 333
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 1/mx10-17-54-114.mxg0000_2.png 2932 253 2988 314
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 1/mx10-17-54-114.mxg0000_3.png 847 251 919 332
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 1/mx10-17-54-114.mxg0008_0.png 970 246 1108 403
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 1/mx10-17-54-114.mxg0008_1.png 3021 248 3107 344
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 1/mx10-17-54-114.mxg0008_2.png 503 239 640 402
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 1/mx10-17-54-114.mxg0008_3.png 2817 249 2902 347
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 10/mx10-16-118-216_02.mxg0736_0.png 601 1289 833 1536
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 10/mx10-16-118-216_02.mxg0736_1.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 2/mx10-17-63-201_01.mxg0101_0.png 626 261 790 476
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 2/mx10-17-63-201_01.mxg0101_1.png 2570 317 2798 608
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 3/mx10-16-118-216_01.mxg0516_0.png 1196 232 1279 322
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 3/mx10-16-118-216_01.mxg0516_1.png 3160 471 3224 539
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 3/mx10-16-118-216_01.mxg0516_2.png 1289 271 1363 352
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 4/mx10-16-118-216_01.mxg0446_0.png 1354 1224 1601 1533
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 4/mx10-16-118-216_01.mxg0446_1.png 3201 1020 3360 1213
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 4/mx10-16-118-216_01.mxg0446_2.png 371 1067 563 1288
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 4/mx10-16-118-216_01.mxg0446_3.png 2674 920 2807 1076
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 4/mx10-16-118-216_01.mxg0446_4.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 5/mx10-16-118-216_01.mxg0455_0.png 1193 210 1269 297
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 5/mx10-16-118-216_01.mxg0455_1.png 1319 255 1390 339
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 6/mx10-16-118-216_02.mxg0589_0.png 3212 1087 3370 1273
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 7/mx10-17-54-72_05.mxg0302_0_0.png 41 39 140 145
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 7/mx10-17-54-72_05.mxg0421_1_0.png 16 4 167 171
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 8/mx10-17-63-201_02.mxg0174_0.png 2080 250 2338 611
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 8/mx10-17-63-201_02.mxg0174_1.png 395 247 569 488
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 9/mx10-16-118-216_02.mxg0695_0.png 1042 1218 1267 1518
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 9/mx10-16-118-216_02.mxg0695_1.png 2985 1022 3135 1218
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S1 - 9/mx10-16-118-216_02.mxg0695_2.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 1/mx10-16-118-216.mxg5644_0.png 1218 323 1321 442
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 1/mx10-16-118-216.mxg5644_1.png 3165 522 3240 606
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 1/mx10-16-118-216.mxg5644_2.png 175 406 272 515
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 10/mx10-16-118-216_04.mxg0129_0.png 1122 220 1202 309
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 10/mx10-16-118-216_04.mxg0129_1.png 1230 279 1308 369
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 10/mx10-16-118-216_04.mxg0129_2.png 3114 466 3177 532
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 10/mx10-16-118-216_04.mxg0129_3.png 3175 497 3237 564
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 10/mx10-16-118-216_04.mxg0129_4.png 636 873 738 1007
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 10/mx10-16-118-216_04.mxg0129_5.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 2/mx10-16-118-216_01.mxg5704_0.png 705 1008 959 1293
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 2/mx10-16-118-216_01.mxg5704_1.png 598 513 698 632
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 2/mx10-16-118-216_01.mxg5704_2.png 2862 907 3018 1084
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 2/mx10-16-118-216_01.mxg5704_3.png 3222 1085 3388 1262
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 2/mx10-16-118-216_01.mxg5704_4.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 3/mx10-16-118-216_01.mxg5733_0.png 274 1079 533 1394
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 3/mx10-16-118-216_01.mxg5733_1.png 2620 939 2781 1121
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 3/mx10-16-118-216_01.mxg5733_2.png 590 492 676 601
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 3/mx10-16-118-216_01.mxg5733_3.png 945 422 1022 508
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 3/mx10-16-118-216_01.mxg5733_4.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 3/mx10-16-118-216_01.mxg5733_5.png 464 621 567 743
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 3/mx10-16-118-216_01.mxg5733_6.png 494 510 615 646
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_0.png 1170 801 1384 1074
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_1.png 1378 1214 1622 1506
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_2.png 3111 790 3249 952
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_3.png 412 605 519 728
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_4.png 306 670 411 796
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_5.png 2712 680 2796 772
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_6.png 3216 1019 3376 1208
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_7.png 2650 716 2734 810
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 4/mx10-16-118-216.mxg0023_8.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 5/mx10-16-118-216_02.mxg5760_0.png 622 1107 915 1474
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 5/mx10-16-118-216_02.mxg5760_1.png 914 380 984 461
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 5/mx10-16-118-216_02.mxg5760_2.png 2791 968 2968 1181
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 5/mx10-16-118-216_02.mxg5760_3.png 3214 1177 3415 1421
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 6/mx10-17-54-58_05.mxg2457_0.png 454 12 684 308
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 6/mx10-17-54-58_05.mxg2457_1.png 8 237 148 427
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 7/mx10-16-118-216_03.mxg5798_0.png 915 363 986 442
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 7/mx10-16-118-216_03.mxg5798_1.png 635 866 749 1015
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 7/mx10-16-118-216_03.mxg5798_2.png 1007 371 1077 456
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 7/mx10-16-118-216_03.mxg5798_3.png 739 363 816 454
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 7/mx10-16-118-216_03.mxg5798_4.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 8/mx10-16-118-216_03.mxg0080_0.png 906 359 974 441
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 8/mx10-16-118-216_03.mxg0080_1.png 611 847 742 1037
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 8/mx10-16-118-216_03.mxg0080_2.png 2327 1172 2520 1382
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 8/mx10-16-118-216_03.mxg0080_3.png 989 370 1064 464
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 8/mx10-16-118-216_03.mxg0080_4.png 450 104 525 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 9/mx10-16-118-216_04.mxg0103_0.png 1139 1319 1368 1536
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S2 - 9/mx10-16-118-216_04.mxg0103_1.png 699 820 813 983
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-1/mx10-16-118-216.mxg000026_0.png 120 965 272 1141
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-1/mx10-16-118-216.mxg000026_1.png 1052 386 1129 475
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-1/mx10-16-118-216.mxg000026_2.png 2545 885 2647 999
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-1/mx10-16-118-216.mxg000026_3.png 813 350 892 437
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-1/mx10-16-118-216.mxg000026_4.png 1210 1283 1467 1536
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-1/mx10-16-118-216.mxg000026_5.png 464 1237 662 1456
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-1/mx10-16-118-216.mxg000026_6.png 2944 539 3006 605
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-1/mx10-16-118-216.mxg000026_7.png 450 104 526 194
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-2/mx10-16-118-216_01.mxg000035_0.png 218 917 362 1096
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-2/mx10-16-118-216_01.mxg000035_1.png 722 965 859 1148
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-2/mx10-16-118-216_01.mxg000035_2.png 2874 880 2973 1003
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-2/mx10-16-118-216_01.mxg000035_3.png 3148 1172 3350 1412
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-2/mx10-16-118-216_01.mxg000035_4.png 2598 856 2699 976
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-3/mx10-16-118-216_01.mxg000066_0.png 1017 381 1102 475
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-3/mx10-16-118-216_01.mxg000066_1.png 3055 555 3121 626
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-3/mx10-16-118-216_01.mxg000066_2.png 3076 892 3242 1087
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-3/mx10-16-118-216_01.mxg000066_3.png 1117 976 1395 1325
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-3/mx10-16-118-216_01.mxg000066_4.png 582 1035 673 1133
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-4/mx10-16-118-216_01.mxg000100_0.png 971 1235 1189 1506
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-4/mx10-16-118-216_01.mxg000100_1.png 808 370 883 457
+/home/cyberfxl/venv/facenet-1/facenet/src/test_alignUniKL/S3-4/mx10-16-118-216_01.mxg000100_2.png 1007 374 1082 468
